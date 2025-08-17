@@ -5,12 +5,13 @@
   box-sizing: border-box;
 }
 
-/* header */
+/* Body */
 body{
   background-color: floralwhite;
   font-family: Arial, sans-serif;
   padding: 25px;
   color: white;
+  font-size: 15px;
 }
 
 /* header */
